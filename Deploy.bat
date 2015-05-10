@@ -1,0 +1,2 @@
+"C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe" -allowuntrusted -verb:sync -source:contentPath="C:\refarch\RefArch\RefArch\" -dest:contentPath='webapce',userName="$webapce",ComputerName="webapce.scm.azurewebsites.net:443/msdeploy.axd?site=webapce",password="ivkhNgDtnZmAWGDkeDvJazCNeTyAx0a9Wqx4WZn8v7lHWLyREcL9wK7tHl65",AuthType="Basic"
+pause
